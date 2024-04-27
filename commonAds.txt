@@ -139,3 +139,6 @@ webview.unityads.unity3d.com
 d3-umami.up.railway.app
 luckyorange.com
 adcolony.com
+googleads.g.doubleclick.net
+static.doubleclick.net
+play.google.com
