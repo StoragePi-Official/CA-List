@@ -136,3 +136,4 @@ weather-analytics-events.apple.com
 notes-analytics-events.apple.com
 pixel.facebook.com
 webview.unityads.unity3d.com
+d3-umami.up.railway.app
