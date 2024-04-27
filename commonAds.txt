@@ -143,3 +143,5 @@ googleads.g.doubleclick.net
 static.doubleclick.net
 play.google.com
 googlevideo.com
+googlesyndication.com
+ggpht.com
