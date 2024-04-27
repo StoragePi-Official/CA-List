@@ -142,3 +142,4 @@ adcolony.com
 googleads.g.doubleclick.net
 static.doubleclick.net
 play.google.com
+googlevideo.com
