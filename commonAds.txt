@@ -137,4 +137,3 @@ notes-analytics-events.apple.com
 pixel.facebook.com
 webview.unityads.unity3d.com
 d3-umami.up.railway.app
-d3ward.github.io/
