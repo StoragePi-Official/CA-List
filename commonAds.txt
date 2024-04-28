@@ -146,3 +146,5 @@ googlevideo.com
 googlesyndication.com
 ggpht.com
 suggestqueries-clients6.youtube.com
+googlesyndication.com
+doubleclick.net
