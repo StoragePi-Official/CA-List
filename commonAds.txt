@@ -145,3 +145,4 @@ play.google.com
 googlevideo.com
 googlesyndication.com
 ggpht.com
+suggestqueries-clients6.youtube.com
